@@ -25,7 +25,7 @@
 # or reach out to our community forum if you need some help (https://community.sonarsource.com/c/sq/10)
 
 name: SonarQube analysis
-
+ 
 on:
   push:
     branches: [ "main" ]
