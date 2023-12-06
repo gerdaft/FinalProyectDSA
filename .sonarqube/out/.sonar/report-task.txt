@@ -1,0 +1,6 @@
+projectKey=GerardoEntregable3
+serverUrl=http://18.222.178.31:9000
+serverVersion=9.9.0.65466
+dashboardUrl=http://18.222.178.31:9000/dashboard?id=GerardoEntregable3
+ceTaskId=AYw8eZZ5jPKjMqxJW0vQ
+ceTaskUrl=http://18.222.178.31:9000/api/ce/task?id=AYw8eZZ5jPKjMqxJW0vQ
